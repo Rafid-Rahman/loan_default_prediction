@@ -63,5 +63,3 @@ It also demonstrates my ability to combine **data science skills** with **busine
 - Integrate into a **dashboard** for real-time monitoring.
 
 ---
-
-*Built as part of my Data Science portfolio.*
