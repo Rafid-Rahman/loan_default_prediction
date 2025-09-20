@@ -1,0 +1,36 @@
+
+=== LogisticRegression ===
+Accuracy: 68.40%
+ROC-AUC: 0.705
+
+              precision    recall  f1-score   support
+
+  No Default       0.86      0.71      0.78      4673
+     Default       0.37      0.60      0.46      1327
+
+    accuracy                           0.68      6000
+   macro avg       0.62      0.65      0.62      6000
+weighted avg       0.75      0.68      0.71      6000
+
+Confusion Matrix:
+[[3307 1366]
+ [ 530  797]]
+--------------------------------------------------
+
+=== RandomForest ===
+Accuracy: 80.83%
+ROC-AUC: 0.747
+
+              precision    recall  f1-score   support
+
+  No Default       0.83      0.94      0.88      4673
+     Default       0.62      0.35      0.44      1327
+
+    accuracy                           0.81      6000
+   macro avg       0.73      0.64      0.66      6000
+weighted avg       0.79      0.81      0.79      6000
+
+Confusion Matrix:
+[[4391  282]
+ [ 868  459]]
+--------------------------------------------------
