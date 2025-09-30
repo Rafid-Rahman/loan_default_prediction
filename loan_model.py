@@ -1,7 +1,3 @@
-# loan_model.py
-# Predicting credit card default using UCI dataset
-# All results saved to files (no console spam)
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
